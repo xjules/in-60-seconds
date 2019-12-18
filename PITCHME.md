@@ -10,19 +10,19 @@
 - Inject into Recall database
 @ulend
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
+---
+@title[Main Components]
 
 @snap[west span-50]
-## Customize the Layout
+## Quaid
+![IMAGE](assets/img/quaid.jpg)
+- the worker
 @snapend
 
 @snap[east span-50]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
+## Quato
+![IMAGE](assets/img/quato.png)
+- the brain
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
