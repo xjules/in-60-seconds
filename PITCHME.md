@@ -1,10 +1,14 @@
-# Let's Get Started
+# Total Recall: the software
 
 ---
 
-## Add Some Slide Candy
+## Goal
 
-![IMAGE](assets/img/presentation.png)
+@ul
+- Browse WellDB database of file
+- Predict 16 different label catagories
+- Inject into Recall database
+@ulend
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
